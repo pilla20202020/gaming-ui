@@ -28,3 +28,8 @@ This is the Vue.js frontend application for the Winning Percentage Calculator pr
 
 ```bash
 git clone https://github.com/pilla20202020/gaming-ui
+
+## run this command for installing the package
+npm install
+## run this command to run the project
+npm run dev
