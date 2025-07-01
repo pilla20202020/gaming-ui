@@ -1,5 +1,30 @@
-# Vue 3 + Vite
+# Winning Percentage Calculator - Vue.js Frontend
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is the Vue.js frontend application for the Winning Percentage Calculator project. It provides a simple and responsive UI to manage teams and players, and displays the calculated winning percentages for each team.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## Features
+
+- CRUD operations for Teams and Players.
+- Form inputs for player stats: eliminations, alive status, knocked status, inside blue zone.
+- Real-time display of calculated winning percentage per team.
+- Responsive layout using TailwindCSS.
+- Integration with Laravel backend API.
+
+---
+
+## Requirements
+
+- Node.js (>=16 recommended)
+- npm or yarn
+- Access to the Laravel backend API
+
+---
+
+## Project Setup
+
+1. **Clone the repository (or frontend folder):**
+
+```bash
+git clone https://github.com/pilla20202020/gaming-ui
